@@ -1,0 +1,7 @@
+genfile.tex
+output/*.aux
+output/*.log
+output/*.out
+output/*.pdf
+.idea/
+.venv/
