@@ -16,11 +16,18 @@ Les calculs proposés sont générés avec des nombres aléatoires. Aussi, un m�
 
 ### Les types d'exercices:
 
-- $5 + 2 = \ldots$
+#### calculs classiques
+$5 + 2 = \ldots$
 
-- $5+\ldots=7$
+#### calculs opérande manquante
+$5+\ldots=7$
 
-- $\begin{array}{r} \phantom{+0} 10 \\ + \phantom{0} 5 \\ \hline \ldots \end{array}$
+#### calculs posés
+```  10
++  5
+-----
+  ...
+```
 
 ### La liste des exercices produits:
 
@@ -46,32 +53,32 @@ Les calculs proposés sont générés avec des nombres aléatoires. Aussi, un m�
 - **Exo 16:**
   - $[1,100]-[1,10]=\ldots$
   - $[1,100]+[1,10]=\ldots$
-- **Exo 17:** $\begin{array}{r} [1,100] \\ + [1,100] \\ \hline \ldots \end{array}$
-- **Exo 18:** $\begin{array}{r} [1,100] \\ - [1,100] \\ \hline \ldots \end{array}$
+- **Exo 17:** *calcul posés* $[1,100] + [1,100]=\ldots$
+- **Exo 18:** *calcul posés* $[1,100] - [1,100]=\ldots$
 - **Exo 19:** 
-  - $ 2 \times [1,10]=\ldots$
-  - $ 2 \times \ldots = \{ 2 \times [0;10]\}$
+  - $2 \times [1,10]=\ldots$
+  - $2 \times \ldots = \{ 2 \times [0;10]\}$
 - **Exo 20:** 
-  - $ 3 \times [1,10]=\ldots$
-  - $ 3 \times \ldots = \{ 3 \times [0;10]\}$
+  - $3 \times [1,10]=\ldots$
+  - $3 \times \ldots = \{ 3 \times [0;10]\}$
 - **Exo 21:** 
-  - $ [2,3] \times [1,10]=\ldots$
-  - $ [2,3] \times \ldots = \{ [2,3] \times [0;10]\}$
+  - $[2,3] \times [1,10]=\ldots$
+  - $[2,3] \times \ldots = \{ [2,3] \times [0;10]\}$
 - **Exo 22:**
-  - $ 4 \times [1,10]=\ldots$
-  - $ 4 \times \ldots = \{ 4 \times [0;10]\}$
+  - $4 \times [1,10]=\ldots$
+  - $4 \times \ldots = \{ 4 \times [0;10]\}$
 - **Exo 23:** 
-  - $ [2,4] \times [1,10]=\ldots$
-  - $ [2,4] \times \ldots = \{ [2,3] \times [0;10]\}$
+  - $[2,4] \times [1,10]=\ldots$
+  - $[2,4] \times \ldots = \{ [2,3] \times [0;10]\}$
 - **Exo 24:**
-  - $ 5 \times [1,10]=\ldots$
-  - $ 5 \times \ldots = \{ 5 \times [0;10]\}$
+  - $5 \times [1,10]=\ldots$
+  - $5 \times \ldots = \{ 5 \times [0;10]\}$
 - **Exo 25:**
-  - $ [2,5] \times [1,10]=\ldots$
-  - $ [2,5] \times \ldots = \{ [2,5] \times [0;10]\}$
+  - $[2,5] \times [1,10]=\ldots$
+  - $[2,5] \times \ldots = \{ [2,5] \times [0;10]\}$
 - **Exo 26:**
-  - $ [2 ~\text{ou}~ 5] \times [1,10]=\ldots$
-  - $ [2~\text{ou}~5] \times \ldots = \{ [2~\text{ou}~5] \times [0;10]\}$
+  - $[2 ~ ou ~ 5] \times [1,10]=\ldots$
+  - $[2 ~ ou ~ 5] \times \ldots = \{ [2 ~ ou ~ 5] \times [0;10]\}$
 
 # Licence
 
