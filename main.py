@@ -1125,7 +1125,7 @@ class LatexGenerator:
             file.write("\\usepackage[table, x11names]{xcolor}\n")
             file.write("\\pagestyle{fancy}\n")
             file.write("\\fancyhf{}")
-            file.write("\\chead{\\url{https://github.com}}")
+            file.write("\\chead{\\url{https://github.com/VMajorczyk/GenerateurPDF_MathExos}}")
             file.write("\\cfoot{\\thepage}")
 
             file.write("\\begin{document}\n")
